@@ -1,4 +1,7 @@
 # Request Header Parser Microservice
 
-This is the boilerplate for the Request Header Parser Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice
-"# request-header-parser-microservice" 
+## Example Usage:
+[project url]/api/2015-12-25\
+[project url]/api/1451001600000
+## Example Output:
+{"unix":1451001600000, "utc":"Fri, 25 Dec 2015 00:00:00 GMT"}
